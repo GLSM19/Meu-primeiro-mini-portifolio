@@ -17,7 +17,7 @@ body{
 .cartao{
     background-color: #070d12;
     width: 370px;
-    border: 2px solid #eae4ea;
+    border: 2px solid #ede7ec;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -32,7 +32,7 @@ body{
 
 .cartao .minhas-informacoes img{
     border-radius: 50px;
-    border: 4px solid #02d08f;
+    border: 4px solid #02d08f;    
     width: 96px;
     height: 96px;
 }
@@ -69,7 +69,7 @@ body{
     width: 30px;
 }
 
-.cargo .abas .aba.selecionado{
+.cartao .abas .aba.selecionado{
     background-color: #262626;
 }
 
@@ -117,14 +117,14 @@ body{
     overflow-y: auto;
 }
 
-.redes-sociais li a{
+.redes-sociais li a{    
     width: 250px;
     display: block;
     color: #f3f3f3;
     text-align: center;
     padding: 10px;
     font-size: 20px;
-    transition: opacity 0.3s ease-in-out
+    transition: opacity 0.3s ease-in-out;
 }
 
 .redes-sociais li a:hover{
@@ -146,3 +146,5 @@ body{
 .redes-sociais .instagram{
     background-color: #87214f;
 }
+
+.
